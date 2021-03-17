@@ -125,4 +125,14 @@ class SiteController extends Controller
     {
         return $this->render('about');
     }
+
+    /**
+     * Displays stranica1 page.
+     *
+     * @return string
+     */
+    public function actionStranica1()
+    {
+        return $this->render('stranica1');
+    }
 }
