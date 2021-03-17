@@ -32,21 +32,21 @@ tests/_support/_generated
 #vagrant folder
 /.vagrant
 
-	.bowerrc
-        LICENSE.md
-        README.md
-        Vagrantfile
-        assets/
-        codeception.yml
-        commands/
-        composer.json
-        composer.lock
-        docker-compose.yml
-        mail/
-        requirements.php
-        runtime/
-        tests/
-        vagrant/
-        widgets/
-        yii
-        yii.bat
+.bowerrc
+LICENSE.md
+README.md
+Vagrantfile
+assets/
+codeception.yml
+commands/
+composer.json
+composer.lock
+docker-compose.yml
+mail/
+requirements.php
+runtime/
+tests/
+vagrant/
+widgets/
+yii
+yii.bat
